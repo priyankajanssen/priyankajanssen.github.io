@@ -1,65 +1,43 @@
 ifdef::backend-html5[]
-image::img/logo.svg[Logo,100,100,float="right",align="right"]
+image::img/0.jpg[Logo,100,100,float="right",align="right"]
 endif::[]
 
-== Jane Smith
+== Priyanka Parmar
 
 [%hardbreaks]
-555-555-5555
-jane.smith@email.com
++31 6 16728439
+priyankajanssen@gmail.com
 
-I have a passion for making resumes.
+I am a result driven IT professional skilled in leading, analysis, planning, design and delivery of complex projects and transition programs. I am highly adept at managing multiple items simultaneously taking complete ownership while maintaining composure, discipline and a sense of humor. I have a strong background in Robotic Process Automation and machine learning (NLP) as part of my master thesis during by MBA along with over ten years work experience in managed services environment. I have led large scale transformation programs and offshoring projects involving multiple disciplines and partners.
+
+Personal values I hold very dear are honesty, integrity and trust. I believe in it’s important to say what you really think and provide an open communication environment therefore I am able to build strong teams and meaningful relationships.
+
+On a side note, I'm absurdly good at eating spicy food. Unfortunately, there's not much of a market for that skill... 
 
 === Skill Summary
 
 [%hardbreaks]
-Writing resumes.
-Proficient with various markup formats.
-Converting structured plain text documents into PDF.
-
-.Tool Proficiency
---
-Markdown, HTML, CSS, pandoc, Neovim, tmux, GNU Make, wkhtmltopdf
---
+Conversational Artificial intelligence.
+Project and Program management.
+Service Delivery management.
+Digital Strategy.
+Engagement Management.
+MBA
+Team builder
+Business and people minded
 
 === Professional Experience
 
-==== Fantasy Resumes, Inc.
+==== IPSOFT
 
-_October 2016 - Present_
+_October 2017 - Present_
 
-.Resume Fairy
+.Cognitive Automation Lead
 --
-Provide resumes that clients dream up under their pillows while they sleep.
-This involves deciphering each client's dream with specialized tools and
-producing it for the client before she or he wakes.  To accomplish this a
-template is used to convert structured plain text into a nice looking resume.
+As cognitive automation lead, I am responsible for leading and ensuring successful implementations of extremely complex Automation and Artificial Intelligence (machine learning) products from IPSOFT for external customers working in a fast paced Agile delivery model. Ensuring teams have an understanding of the product to deliver, leading them to implementation and successful delivery.
 --
 
-==== Curriculum Vitae, LLC
-
-_July 2004 - October 2016_
-
-.Word Smith | April 2010 – October 2016
---
-Hammered out words to produce curriculum vitae for clients.  Corrected errors
-detected by the typo snipers.
-
-Developed a resume template the separated layout and content so word smiths can
-focus on the important things: hammering out words.
---
-
-.Typo Sniper | July 2004 – April 2010
---
-Analyzed the quality of curriculum vitae produced by the word smiths.
-Documents that contained errors and typos were sent back for corrections.
-
-Improved efficiency by providing error correction tools early in the process,
-such as spell check.
---
 
 === Education
 
-*Resume University* | _2000 – 2004_ | Bachelor's degree in resume writing
-
-*Plain Text High School* | _2000_ | Graduated
+*Nyenrode Business University* | _2018_ | Master in Business Administration

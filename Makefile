@@ -1,5 +1,5 @@
 # Environment Variable Defaults
-NAME       ?= jane-smith-resume
+NAME       ?= priyanka
 SOURCE     ?= resume.adoc
 OUTDIR     ?= dist
 PAGE_SIZE  ?= A4
