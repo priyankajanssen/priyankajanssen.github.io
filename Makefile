@@ -1,13 +1,13 @@
 # Environment Variable Defaults
 NAME       ?= priyanka
 SOURCE     ?= resume.adoc
-OUTDIR     ?= dist
+OUTDIR     ?= docs
 PAGE_SIZE  ?= A4
 USE_DOCKER ?= true
 
 # Utility
 pdfout     := $(OUTDIR)/$(NAME).pdf
-htmlout    := $(OUTDIR)/$(NAME).html
+htmlout    := $(OUTDIR)/index.html
 pkgout     := $(OUTDIR)/$(NAME).html.tar.gz
 
 # Docker (if USE_DOCKER is "true")
