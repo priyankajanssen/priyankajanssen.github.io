@@ -1,3 +1,2 @@
-dist
-*.orig
-*.tar.xz
+_site/
+.sass-cache/

@@ -1,138 +1,65 @@
-Resume/CV Template
-==================
+# markdown-cv
 
-A resume/CV template that uses [Asciidoctor][asciidoctor] to transform your text
-resume formatted in [AsciiDoc][asciidoc] into a professional looking PDF or HTML
-resume/CV.
+A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-[asciidoc]: https://en.wikipedia.org/wiki/AsciiDoc
-[asciidoctor]: https://asciidoctor.org/
+For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
-Dependencies
-------------
+***
 
-Dependencies:
+## Customization
 
-  * [GNU Make][make] - Command line tool used to build the resume.
-  * [Docker][docker] - Used to run Asciidoctor without having to install it.
+Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
-If you do not wish yo run Docker, you can set the environment variable
-`USE_DOCKER` to `false`.  You will have to install the following dependencies:
+![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-  * [Asciidoctor][asciidoctor]
-  * [Asciidoctor PDF][asciidoctor-pdf]
+and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-This project is intended to run on Unix-like systems.  It might be possible to
-run on Windows, but this is not supported.
+![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-Running
--------
+adding your skills, jobs and education.
 
-From the root of the project directory (in this example, the project root is
-`~/proj/resume-template`), running the following will display the help text:
+![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-    [~/proj/resume-template]$ make
-    Resume/CV - Turn text into professional PDF or HTML resume/CV
+## Distribution
 
-    Usage: make <action>
+To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
 
-    Actions:
-      clean      to remove the output directory
-      html       to make a standalone HTML version of the resume
-      pdf        to produce a PDF version of the resume
+### I. Use Github Pages to publish it online
 
-    Environment variables
-      NAME       the filename (without extension) of the output
-                 (currently: jane-smith-resume)
-      SOURCE     the source file to use as input
-                 (currently: resume.adoc)
-      OUTDIR     the directory where the generated files will be placed
-                 (currently: dist)
-      PAGE_SIZE  the page size for the PDF (example: Letter)
-                 (currently: A4)
-      USE_DOCKER if set to "true", will use docker to run generator
-                 (currently: true)
+1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
+2. Create a new branch called `gh-pages`.
+3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
 
-    Example:
-      $ export USE_DOCKER=true
-      $ make pdf
-        Resume/CV - Turn text into professional PDF or HTML resume/CV
+Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
 
-The help text provides a list of actions available and brief descriptions of
-each.
+### II. Build it locally and print a PDF
 
-To generate the HTML version of the resume, run the following:
+1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
+3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
+3. Type `jekyll serve` to render your CV at http://localhost:4000.
+4. You can edit the `index.md` file and see the changes live in your browser.
+5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
-    [~/proj/resume-template]$ make html
+## Styling
 
-This will create the `dist/` directory in the root of the project if it
-doesn't exist already and `jane-smith-resume.html` will be produced inside. You
-can view the resume by opening this file with your browser.
+The included CSS will render your CV in two styles:
+s
+1. `kjhealy` the original default, inspired by [kjhealy's vita
+template](https://github.com/kjhealy/kjh-vita).
+2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
+  right aligned.
 
-To generate the PDF version of the resume, run the following:
+To change the default style, simply change the variable in the
+`_config.yml` file.
 
-    [~/proj/resume-template]$ make pdf
+Any other styling is possible. More CSS style contributions and forks are welcome!
 
-This will create the file `dist/jane-smith-resume.pdf`.
+### Author
 
-Environment Variable Configuration
-----------------------------------
+Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
-There are environment variables that you can set that affect how your finish
-product gets generated.  For example, setting the `NAME` variable to
-`john-henry-cv` will make the output filenames be `john-henry-cv.pdf` and
-`john-henry-cv.html` for the PDF and HTML versions respectively.  This can help
-make your files identifiable from other people's when the person reviewing your
-resume/cv downloads it.
+![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
-On most Unix-based systems, you will be able to use the `env` command to set
-environment variables for a single command.  If we want to generate the PDF
-version of our resume with a personal name as part of the file name, we would
-run something like the following:
+### License
 
-    [~/proj/resume-template]$ env NAME=john-henry-cv pdf
-
-Most shells let you export environment variables so you do not have to specify
-them with the `env` command every time.  If you are using the bash, zsh, or
-other POSIX compliant shell, then you can use the `export` command like so:
-
-    [~/proj/resume-template]$ export NAME=john-henry-cv
-
-If you are using [fish](https://fishshell.com/) you would use the `set` command
-instead:
-
-    [~/proj/resume-template]$ set -x NAME john-henry-cv
-
-Exporting your environment variable makes it so the setting persists for all
-commands until you change it again or unset it.
-
-Making it Your Own
-------------------
-
-This template is meant so that it can be used to easily produce new resumes or
-at least provide a base to create your own solution.
-
-Feel free to fork this template and modify it to your liking.  If you update
-your copy with personal information, I recommend storing your changes in
-a private repository.
-
-You will want to update `resume.adoc` with your own resume content.  The one
-provided in the template is meant to be only a demo and does not reflect the
-information of a real life person.
-
-You will also want to update `img/logo.svg` to be your own personal graphic.  If
-you want to provide a graphic with a different name or extension (.jpg, .jpeg,
-or .png for example), you'll need to update the path to it in `resume.adoc`.
-
-Note: Only the HTML version uses the `img/logo.svg`.  This is because there is
-currently no way to do the same effect as `float="right"` in the PDF version.
-Without it, the graphic takes up a lot of space.
-
-You will probably want to update the default variable settings in the
-`Makefile`.  Change the default value of the `NAME` variable to include your own
-personal name.  This will help make your files names recognizable from
-others when a reviewer downloads it.
-
-If you are in the United States, you may also want to change the default value
-of `PAGE_SIZE` to `Letter` so the PDF will be formatted to fit on "Letter"
-(8.5in x 11in) size paper.
+[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
