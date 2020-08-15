@@ -8,6 +8,8 @@ title: Priyanka Parmar CV
 
 <div id="webaddress">
 <a href="<priyankajanssen@gmail.com">priyankajanssen@gmail.com</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/priyankaparmar/">priyankaparmar</a>
 </div>
 
 I am a result driven IT professional skilled in leading, analysis,
