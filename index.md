@@ -49,7 +49,7 @@ Psychology
 `2006`
 __Engineering Univeristy of Mumbai Information Technology__
 
-Bachelor's degree with distinction in engineering from the
+Bachelor's degree with distinction in engineering
 
 `2003`
 __University of Mumbai__
