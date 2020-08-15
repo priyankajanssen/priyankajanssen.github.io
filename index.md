@@ -59,11 +59,11 @@ Diploma in computer science
 - Dutch (level A2 -- can understand fully, can converse but not business fluent)
 - Hindi (Native)
 
-## Professional Experience Preview (Last 5 years)
+## Recent experience
 
 ### IPSOFT
 
-*October 2017 - Present*
+`October 2017 - Present`
 #### Engagement Manager - Cognitive Solutions (Amelia Virtual Agent)
 
 As an engagement manager, I am responsible for leading and ensuring
