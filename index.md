@@ -7,7 +7,7 @@ title: Priyanka Parmar CV
 ![](media/0.jpg)
 # Priyanka Parmar
 <div id="webaddress">
-<a href="<priyankajanssen@gmail.com">priyankajanssen@gmail.com</a>
+<a href="mailto:priyankajanssen@gmail.com">priyankajanssen@gmail.com</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/priyankaparmar/">priyankaparmar</a>
 |  <a href="media/cv-priyanka-parmar.pdf"><i class="fa fa-file-pdf-o"></i></a>
