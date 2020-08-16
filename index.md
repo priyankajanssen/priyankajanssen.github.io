@@ -191,6 +191,3 @@ quality control and proactive risk management activities.
 - Maintained comprehensive scheduling & timecard solution integrated into the e-Business Suite which was a mix of OA Framework pages, Workflow and PLSQL used by 5000 employees across 800 stores in the UK.
 - Migrated code across all Pre Production environments, liaising with QA and onshore UAT teams as well as provided 3rd line support for all technical components of Oracle Applications.
 - Conducted Quality reviews of designs and code developed by other members
-
-
-[pdf]
