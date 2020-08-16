@@ -10,6 +10,7 @@ title: Priyanka Parmar CV
 <a href="<priyankajanssen@gmail.com">priyankajanssen@gmail.com</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/priyankaparmar/">priyankaparmar</a>
+|  <a href="media/cv-priyanka-parmar.pdf"><i class="fa fa-file-pdf-o"></i></a>
 </div>
 
 Experienced IT Professional with over 13 years of experience in leading, designing and delivering complex projects and transition programs. Because of my broad experience across many aspects I have led large scale transformation programmes and offshoring projects involving multiple disciplines and partners. My engineering background enables me to quickly grasp new concepts, tools and technologies. 
@@ -64,6 +65,8 @@ Diploma in computer science
 - English (Fluent)
 - Dutch (level A2 -- can understand fully, can converse but not business fluent)
 - Hindi (Native)
+
+<div style="page-break-after: always;"></div>
 
 ## Recent experience
 
@@ -137,6 +140,9 @@ __Global Transformation and offshore manager__
 - Instrumental in obtaining Legal approval from customer in Germany to ensure compliance of data security requirements.
 - Delivered savings of 5M euros in one year by reducing costs of subcontractors and set- ting up offshore delivery center in Poland
 
+<div style="page-break-after: always;"></div>
+
+
 ### Atos
 
 `2011 - 2013`
@@ -185,3 +191,6 @@ quality control and proactive risk management activities.
 - Maintained comprehensive scheduling & timecard solution integrated into the e-Business Suite which was a mix of OA Framework pages, Workflow and PLSQL used by 5000 employees across 800 stores in the UK.
 - Migrated code across all Pre Production environments, liaising with QA and onshore UAT teams as well as provided 3rd line support for all technical components of Oracle Applications.
 - Conducted Quality reviews of designs and code developed by other members
+
+
+[pdf]
