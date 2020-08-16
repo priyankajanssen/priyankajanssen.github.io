@@ -4,40 +4,41 @@ title: Priyanka Parmar CV
 ---
 
 
+![](media/0.jpg)
 # Priyanka Parmar
-
 <div id="webaddress">
 <a href="<priyankajanssen@gmail.com">priyankajanssen@gmail.com</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/priyankaparmar/">priyankaparmar</a>
 </div>
 
-I am a result driven IT professional skilled in leading, analysis,
-planning, design and delivery of complex projects and transition
-programs. I am highly adept at managing multiple items simultaneously
-taking complete ownership while maintaining composure, discipline and a
-sense of humor. I have a strong background in Robotic Process Automation
-and machine learning (NLP) as part of my master thesis during by MBA
-along with over ten years work experience in managed services
-environment. I have led large scale transformation programs and
-offshoring projects involving multiple disciplines and partners.
+Experienced IT Professional with over 13 years of experience in leading, designing and delivering complex projects and transition programs. Because of my broad experience across many aspects I have led large scale transformation programmes and offshoring projects involving multiple disciplines and partners. My engineering background enables me to quickly grasp new concepts, tools and technologies. 
 
-Personal values I hold very dear are honesty, integrity and trust. I
-believe in it's important to say what you really think and provide an
-open communication environment therefore I am able to build strong teams
-and meaningful relationships.
+Personal values I hold very dear are honesty, integrity and trust. I believe in it’s important to say what you really think and provide an open communication environment therefore I am able to build strong teams and meaningful relationships.
 
 On a side note, I'm absurdly good at eating spicy food. Unfortunately,
 there's not much of a market for that skill...​
 
 ## Skill Summary
 
-* Conversational Artificial intelligence
-* Project and Program management
-* Service Delivery management
-* Engagement Management
-* Team building
-* Business and people minded
+1. Machine learning
+1. Natural language processing
+1. Robotic Process Automation
+1. Strategic Planning
+1. revenue modeling & forecasting
+1. account management
+1. project planning
+1. project management
+1. programme management
+1. transition management
+1. complex transformations
+1. agile
+1. scrum
+1. object oriented programming
+1. lean
+1. value chain analysis
+1. ITIL
+1. programming
 
 ## Education
 
@@ -68,55 +69,42 @@ Diploma in computer science
 
 ### IPSOFT
 
-`10-2017 - Present`
+`2017 -`
 __Engagement Manager - Cognitive Solutions (Amelia Virtual Agent)__
 
-As an engagement manager, I am responsible for leading and ensuring
-successful implementations of extremely complex Automation and
-Artificial Intelligence (machine learning) products from IPSOFT for
-external customers in the Benelux and the Nordics region.working in a
-fast paced Agile delivery model. 
+Manage and build positive relationship provide excellent experience to all customers under the Benelux and Nordics region after they signed a contract for implementation of conversational AI agent Amelia.
+- Managing client expectations, and working with the sales team to identify additionaopportunities / use cases to implement Amelia to maximize value for the client.
+- Build and manage loosely coupled multi- disciplinary delivery of AI engineersTechnical leads and engineers to define solution options, provide estimates on efforand risk, and evaluate technical feasibility.
+- Creating technical solution designs, process workflows and running product demos.
+- Running the client configuration and Integration streams on site and liaise with thcentral dedicated IPsoft teams (i.e. Configuration & Implementation and Interface Security teams), with the support of the Business and Technical Architects to addresmore complex issues
+- Helping solve any problems/ issues encountered during implementation with speed anefficiency.
 
-Ensuring teams have an understanding of the product to deliver, 
-leading them to implementation and successful
-delivery.
+_Key Accomplishments:_
 
-In my current role I am responsible for : building a positive
-relationship and provide excellent experience to the client after they
-have signed a contract for implementation of our conversational AI agent
-Amelia. Managing the client expectations and working with the sales team
-to identify additionalopportunities / use cases to implement Amelia to
-maximize value for the client. Defining solution options, provide
-estimates on effort and risk, and evaluate technical feasibility
-Analyzing conversational data and reporting on performance metrics of
-the AI Agent Ensuring the contract is carried out correctly and
-reporting on the project/product implementation progress Helping solve
-any problems/ issues encountered during implementation Influencing
-outcomes across loosely coupled multi disciplinary teams Addressing
-customer issues with speed and efficiency
+- Designed technical solution for knowledge base search within the custome environment via text based chat for Amelia AI conversational agent 	
+- Featured in the #WomenInAI initiative to support advancement of women in STEM. 
+
 
 ### Atos
-`12-2015 - 09-2016`
+`2016 - 2017`
+__Automation Program Lead__
+- Ensured effective and efficient management of all aspects of Automation implementation, and improve outcomes for Atos for Robotic Process Automation (RPA) initiative 
+- Developing reporting strategies and tools for measuring automation rate and success globally (all accounts)
+- Reporting the customer Automation status and service operations.
+- Monitor implementation of projects and the completion of major milestones to ensure success.
+
+### Atos
+`2015 - 2016`
 __Global tower head networks, data center & communication services__
 
-Atos S.E provides network, data center and communication services to
-Siemens worldwide. As a Global Tower head for this team I was
-responsible and accountable to provide leadership, overall direction,
-budget responsibilities, supervision, and planning for the Network
-Infrastructure & Operations department and its related functions,
-services, and operations worldwide for Customer Siemens at Atos. My
-responsibilties included the following:
 
 - Responsible and accountable to provide leadership, overall direction, supervision, and planning for the Network Infrastructure & Operations department and its related functions, services, and operations worldwide for Customer Siemens at Atos.
 - To ensure the effective and efficient management of all aspects of service delivery, and improve outcomes for Siemens
-
 Overall responsibilities include:
-
-- Managing Tower budget, creating financial plans, investment decisions - Operating and Capital budget responsibility for all network services, as well as prioritization and recommendations of capital investments.
-- Responsible for overall P&L of the tower circa. 5M€.
+- Managing Operational budget, creating financial plans, investment decisions - Operating and Capital budget responsibility for all network services, as well as prioritization and recommendations of capital investments.
 - Ensure quality of practice meets contractual requirements, legal obligations and organizational policy and procedures
-- Identify and elevate issues impacting on achievement of service  delivery objectives and to continually improve services.
-- Provide directions to the Network Services Team of 400 people and 8 direct reports to ensure the managed service partners have the necessary process, tools, and support to be successful.
+- Identify and elevate issues impacting on achievement of service delivery objectives and to continually improve services.
+- Provide directions to the Global Network Services Team (offshore and onshore) to ensure the managed service partners have the necessary process, tools, and support to be successful.
 - Report to the VP &COO of Siemens account within Atos and ensuring that the long-term strategy is translated into appropriate goals and targets for the team.
 
 
@@ -124,7 +112,7 @@ Overall responsibilities include:
 
 ### Atos
 
-`01-2015 - 11-2015`
+`2015`
 __Global Voice Transformation Manager__
 
 - Setting up central operations delivery center in Romania and ensuring service delivery according to contractual obligations as well as managing transformation
@@ -133,6 +121,8 @@ __Global Voice Transformation Manager__
 - Managing customer relationships, conducting weekly reviews, setting up the service operational structure.
 - Driving end to end transformation and coordinating and managing different stakeholders in the chain.
 - Responsible for creating business development plan, working with the account and sales team to develop new solutions and resource units to add to the service Catalogue.
+
+### Atos
 
 `2013 - 2014`
 __Global Transformation and offshore manager__
@@ -147,6 +137,8 @@ __Global Transformation and offshore manager__
 - Instrumental in obtaining Legal approval from customer in Germany to ensure compliance of data security requirements.
 - Delivered savings of 5M euros in one year by reducing costs of subcontractors and set- ting up offshore delivery center in Poland
 
+### Atos
+
 `2011 - 2013`
 __Transition Programme Manager__
 
@@ -156,6 +148,8 @@ __Transition Programme Manager__
 - Have overall responsibility and accountability for end-to-end project management and implementation on all sub projects.
 - Monitor implementation of projects and the completion of major milestones to ensure success.
 - Report project status and significant issues to the Global Programme lead
+
+### Atos
 
 `2009 - 2011`
 __Global Lean Sustainability Manager- Benelux, Germany & IMEA__
@@ -167,12 +161,16 @@ __Global Lean Sustainability Manager- Benelux, Germany & IMEA__
 Continuous improvement:
 - Draft plans for operational excellence collaborating together with various operational teams and track implementation.
 
+### Atos
+
 `2008`
 __Venue Manager__
 
-- Provide Level 2 real time support for Handball and Gymnastics Venue for the Beijing Olympics 2008. 
-- Part of IT team which monitored IT security events to detect potential security risks.
-- Ensured data consistency with Information Diffusion systems and INFO 2008.
+Provide Level 2 real time support for Handball and Gymnastics Venue for the Beijing Olympics 2008. 
+Part of IT team which monitored IT security events to detect potential security risks.
+Ensured data consistency with Information Diffusion systems and INFO 2008.
+
+### Atos
 
 `2006 - 2009`
 __ERP consultant (Oracle E Business Suite__
