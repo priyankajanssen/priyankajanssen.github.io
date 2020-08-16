@@ -169,12 +169,14 @@ Continuous improvement:
 
 `2008`
 __Venue Manager__
+
 - Provide Level 2 real time support for Handball and Gymnastics Venue for the Beijing Olympics 2008. 
 - Part of IT team which monitored IT security events to detect potential security risks.
 - Ensured data consistency with Information Diffusion systems and INFO 2008.
 
 `2006 - 2009`
 __ERP consultant (Oracle E Business Suite__
+
 Executed the full project life cycle (specializing in HR and payroll
 modules): requirements gathering, design, technical specifications,
 generating test scripts, documentation. Con- ducted defect prevention
