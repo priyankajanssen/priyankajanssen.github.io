@@ -51,7 +51,7 @@ MBA in business and IT, Thesis in Artificial Intelligence in
 Psychology
 
 `2006`
-__Engineering Univeristy of Mumbai Information Technology__
+__Engineering University of Mumbai Information Technology__
 
 Bachelor's degree with distinction in engineering
 
@@ -73,7 +73,7 @@ Diploma in computer science
 ### IPSOFT
 
 `2017 -`
-__Engagement Manager - Cognitive Solutions (Amelia Virtual Agent)__
+__Engagement/Programme/Delivery Management - Cognitive Solutions (Amelia Virtual Agent)__
 
 Manage and build positive relationship provide excellent experience to all customers under the Benelux and Nordics region after they signed a contract for implementation of conversational AI agent Amelia.
 - Managing client expectations, and working with the sales team to identify additionaopportunities / use cases to implement Amelia to maximize value for the client.
@@ -170,7 +170,7 @@ Continuous improvement:
 ### Atos
 
 `2008`
-__Venue Manager__
+__Venue Manager - Beijing Olympics__
 
 Provide Level 2 real time support for Handball and Gymnastics Venue for the Beijing Olympics 2008. 
 Part of IT team which monitored IT security events to detect potential security risks.
@@ -179,7 +179,7 @@ Ensured data consistency with Information Diffusion systems and INFO 2008.
 ### Atos
 
 `2006 - 2009`
-__ERP consultant (Oracle E Business Suite__
+__ERP consultant (Oracle E Business Suite)__
 
 Executed the full project life cycle (specializing in HR and payroll
 modules): requirements gathering, design, technical specifications,
